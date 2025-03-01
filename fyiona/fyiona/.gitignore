@@ -1,0 +1,25 @@
+# Directories
+__pycache__
+migrations
+data
+media
+static
+
+
+# Config Files
+init-letsencrypt.sh
+pytests.ini
+
+
+# Environments
+venv
+env
+.env
+
+
+# Temp Files
+*.html
+*.json
+*.png
+*.jpg
+*.log
